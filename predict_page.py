@@ -46,7 +46,7 @@ def show_predict_page():
     )
     
     education = (
-        'Less than a Bachelor’s',
+        'Less than Bachelor’s',
         'Bachelor’s degree',
         'Master’s degree',
         'Professional degree',
