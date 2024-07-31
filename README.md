@@ -1,6 +1,8 @@
 # Machine-Learning-Web-App
 ## Estimated Income Calculator
 
+![alt text](image.png)
+
 This repository contains a web application built with Streamlit that estimates your income based on various factors. The underlying model is a machine learning model trained on Stack Overflow's 2023 survey data.
 
 ## Features:
